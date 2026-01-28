@@ -1,0 +1,1458 @@
+2025-05-11 22:19:27,117 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\53380d47711910b2.png
+2025-05-11 22:26:03,762 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\5751212aff0f15b5.png
+2025-05-11 22:26:24,441 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\52516627c972d022.png
+2025-05-12 09:39:55,585 - ERROR - Failed to initialize model: URL fetch failure on https://storage.googleapis.com/tensorflow/keras-applications/resnet/resnet50v2_weights_tf_dim_ordering_tf_kernels_notop.h5: None -- retrieval incomplete: got only 50298880 out of 94668760 bytes
+2025-05-12 11:27:57,482 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\6fca02a3d6ef4089.png
+2025-05-12 11:33:24,602 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\d3859bb7dca83afb.png
+2025-05-12 11:40:10,530 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\001d2b8fca2a675e.png
+2025-05-12 11:41:13,827 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\40dfea7b5214c492.jpg
+2025-05-12 11:41:26,653 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\87a21c14613e637e.jpg
+2025-05-12 11:47:26,919 - INFO - Successful prediction for C:\Users\Yakshini\OneDrive\Desktop\plant_detection\static\uploads\50c914e1497f248e.jpg
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:27] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for apple.jpg: {'class_name': 'Uncertain', 'confidence': 0.313773512840271, 'message': 'Please provide a clearer image for better prediction', 'image_path': 'uploads\\apple.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 11:59:38] "[33mGET /uploads/apple.jpg HTTP/1.1[0m" 404 -
+INFO:root:Prediction for tomato_plant.png: {'class_name': 'Uncertain', 'confidence': 0.3138121962547302, 'message': 'Please provide a clearer image for better prediction', 'image_path': 'uploads\\tomato_plant.png'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 12:03:49] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 12:03:49] "[33mGET /uploads/tomato_plant.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:06:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:06:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Prediction for e6f3e3b6-8d73-4564-9e0b-771302aaa6ef___RS_HL_0626_final_masked.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.2987913191318512, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\e6f3e3b6-8d73-4564-9e0b-771302aaa6ef___RS_HL_0626_final_masked.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:06:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:06:55] "[33mGET /uploads/e6f3e3b6-8d73-4564-9e0b-771302aaa6ef___RS_HL_0626_final_masked.jpg HTTP/1.1[0m" 404 -
+INFO:root:Prediction for apple.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.2982040345668793, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\apple.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:07:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:07:13] "[33mGET /uploads/apple.jpg HTTP/1.1[0m" 404 -
+INFO:root:Prediction for tomato_plant.png: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.29719868302345276, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\tomato_plant.png'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:07:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 13:07:22] "[33mGET /uploads/tomato_plant.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.94.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:17:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:17:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Prediction for tomato_plant.png: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.29719871282577515, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\tomato_plant.png'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:17:16] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:17:17] "[33mGET /uploads/tomato_plant.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.14.77 - - [12/May/2025 14:19:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.14.77 - - [12/May/2025 14:19:31] "[31m[1mGET / HTTP/1.1[0m" 400 -
+INFO:werkzeug:192.168.14.77 - - [12/May/2025 14:19:31] "[33mGET /loginMsg.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.14.77 - - [12/May/2025 14:19:31] "[33mGET /cgi/get.cgi?cmd=home_login HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.14.77 - - [12/May/2025 14:19:39] "[33mPOST /boaform/admin/formTracert HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.14.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:21:20] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for plant_disease.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.2967372536659241, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\plant_disease.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:21:32] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:21:32] "[33mGET /uploads/plant_disease.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:21:52] "[33mPOST /capture HTTP/1.1[0m" 404 -
+INFO:root:Prediction for e9392a5e-2fac-48c5-a23d-df3aa3f61048___GH_HL_Leaf_217_final_masked.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.30104249715805054, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\e9392a5e-2fac-48c5-a23d-df3aa3f61048___GH_HL_Leaf_217_final_masked.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:22:19] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:22:19] "[33mGET /uploads/e9392a5e-2fac-48c5-a23d-df3aa3f61048___GH_HL_Leaf_217_final_masked.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:24:38] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for Leaf_spot_disease.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.298586905002594, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\Leaf_spot_disease.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:24:50] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:24:50] "[33mGET /uploads/Leaf_spot_disease.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.14.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:31:41] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for Leaf_spot_disease.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.298586905002594, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\Leaf_spot_disease.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:31:53] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:31:53] "[33mGET /uploads/Leaf_spot_disease.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:33:57] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for Leaf_spot_disease.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.298586905002594, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\Leaf_spot_disease.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:34:05] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:34:05] "[33mGET /uploads/Leaf_spot_disease.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.14.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:35:14] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for Leaf_spot_disease.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.298586905002594, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\Leaf_spot_disease.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:35:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:35:28] "[33mGET /uploads/Leaf_spot_disease.jpg HTTP/1.1[0m" 404 -
+INFO:root:Prediction for Leaf_spot_disease.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.298586905002594, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\Leaf_spot_disease.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:35:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:35:43] "[33mGET /uploads/Leaf_spot_disease.jpg HTTP/1.1[0m" 404 -
+INFO:root:Prediction for tomato_plant.png: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.29719871282577515, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\tomato_plant.png'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:35:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:35:51] "[33mGET /uploads/tomato_plant.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.14.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:38:00] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for tomato_plant.png: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.29719871282577515, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\tomato_plant.png'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:38:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:38:10] "[33mGET /uploads/tomato_plant.png HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.94.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:47:16] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for Leaf_spot_disease.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.298586905002594, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\Leaf_spot_disease.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:47:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:47:29] "[33mGET /uploads/Leaf_spot_disease.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:47:33] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for fb466ac9-aa95-4160-994e-64693e307191___RS_HL_0332_final_masked.jpg: {'plant_name': 'Apple', 'disease': 'Apple scab', 'confidence': 0.30036279559135437, 'treatment': 'Confidence too low for accurate treatment recommendation. Please provide a clearer image.', 'image_path': 'uploads\\fb466ac9-aa95-4160-994e-64693e307191___RS_HL_0332_final_masked.jpg'}
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:47:50] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 14:47:50] "[33mGET /uploads/fb466ac9-aa95-4160-994e-64693e307191___RS_HL_0332_final_masked.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.94.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:41:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:41:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.94.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:root:Prediction for 20250512_154303_bcedb0fd.jpg: {'plant_name': 'Apple', 'condition': 'Apple scab', 'confidence': 0.2615029513835907, 'scientific_name': 'Malus domestica', 'treatment': 'Treatment recommendations:\n1. Remove and destroy infected leaves and fruit\n2. Apply fungicide containing captan or myclobutanil\n3. Improve air circulation through proper pruning\n4. Apply preventive fungicide in early spring\n5. Maintain proper tree spacing', 'image_path': '/static/uploads/20250512_154303_bcedb0fd.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_154303_bcedb0fd.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:43:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:43:12] "GET /static/uploads/20250512_154303_bcedb0fd.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_155333_e0a9766e.png: {'plant_name': 'Apple', 'condition': 'Apple scab', 'confidence': 0.25965937972068787, 'scientific_name': 'Malus domestica', 'treatment': 'Treatment recommendations:\n1. Remove and destroy infected leaves and fruit\n2. Apply fungicide containing captan or myclobutanil\n3. Improve air circulation through proper pruning\n4. Apply preventive fungicide in early spring\n5. Maintain proper tree spacing', 'image_path': '/static/uploads/20250512_155333_e0a9766e.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_155333_e0a9766e.png
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:53:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:53:34] "GET /static/uploads/20250512_155333_e0a9766e.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_155406_f633d8a6.jpg: {'plant_name': 'Apple', 'condition': 'Apple scab', 'confidence': 0.2625434696674347, 'scientific_name': 'Malus domestica', 'treatment': 'Treatment recommendations:\n1. Remove and destroy infected leaves and fruit\n2. Apply fungicide containing captan or myclobutanil\n3. Improve air circulation through proper pruning\n4. Apply preventive fungicide in early spring\n5. Maintain proper tree spacing', 'image_path': '/static/uploads/20250512_155406_f633d8a6.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_155406_f633d8a6.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:54:06] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 15:54:06] "GET /static/uploads/20250512_155406_f633d8a6.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.94.77:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 18:59:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 18:59:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:root:Prediction for 20250512_190012_7d1dcc0c.png: {'plant_name': 'Cherry', 'condition': 'healthy', 'scientific_name': 'Prunus avium', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.2171802520751953, 'image_path': '/static/uploads/20250512_190012_7d1dcc0c.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190012_7d1dcc0c.png
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:00:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:00:20] "GET /static/uploads/20250512_190012_7d1dcc0c.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_190035_d0ff24ba.jpg: {'plant_name': 'Cherry', 'condition': 'healthy', 'scientific_name': 'Prunus avium', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.2219274640083313, 'image_path': '/static/uploads/20250512_190035_d0ff24ba.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190035_d0ff24ba.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:00:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:00:35] "GET /static/uploads/20250512_190035_d0ff24ba.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_190052_55ca7be0.jpg: {'plant_name': 'Cherry', 'condition': 'healthy', 'scientific_name': 'Prunus avium', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.21919435262680054, 'image_path': '/static/uploads/20250512_190052_55ca7be0.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190052_55ca7be0.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:00:53] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:00:53] "GET /static/uploads/20250512_190052_55ca7be0.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_190106_cb604cf3.jpg: {'plant_name': 'Cherry', 'condition': 'healthy', 'scientific_name': 'Prunus avium', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.21919435262680054, 'image_path': '/static/uploads/20250512_190106_cb604cf3.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190106_cb604cf3.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:01:07] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:01:07] "GET /static/uploads/20250512_190106_cb604cf3.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for captured image 20250512_190116_e5d324a0.jpg: {'plant_name': 'Cherry', 'condition': 'healthy', 'scientific_name': 'Prunus avium', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.2281215786933899, 'image_path': '/static/uploads/20250512_190116_e5d324a0.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190116_e5d324a0.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:01:16] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:01:16] "GET /static/uploads/20250512_190116_e5d324a0.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:05:49] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_190559_0a04c5f1.jpg: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove galls from nearby cedar trees\n2. Apply protective fungicides in spring\n3. Maintain proper tree spacing', 'prevention': '1. Plant resistant varieties\n2. Remove cedar trees within 1000 feet\n3. Apply preventive sprays', 'confidence': 0.2472120225429535, 'image_path': '/static/uploads/20250512_190559_0a04c5f1.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190559_0a04c5f1.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:06:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:06:10] "GET /static/uploads/20250512_190559_0a04c5f1.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_190630_70d7319e.png: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove galls from nearby cedar trees\n2. Apply protective fungicides in spring\n3. Maintain proper tree spacing', 'prevention': '1. Plant resistant varieties\n2. Remove cedar trees within 1000 feet\n3. Apply preventive sprays', 'confidence': 0.24371449649333954, 'image_path': '/static/uploads/20250512_190630_70d7319e.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190630_70d7319e.png
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:06:31] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:06:31] "GET /static/uploads/20250512_190630_70d7319e.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_190652_45718855.jpg: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove galls from nearby cedar trees\n2. Apply protective fungicides in spring\n3. Maintain proper tree spacing', 'prevention': '1. Plant resistant varieties\n2. Remove cedar trees within 1000 feet\n3. Apply preventive sprays', 'confidence': 0.24532300233840942, 'image_path': '/static/uploads/20250512_190652_45718855.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_190652_45718855.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:06:52] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:06:52] "GET /static/uploads/20250512_190652_45718855.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\train_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\train_model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\train_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\train_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:11:35] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_191143_c027a507.png: {'plant_name': 'segmented', 'condition': 'Unknown', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.19270674884319305, 'image_path': '/static/uploads/20250512_191143_c027a507.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_191143_c027a507.png
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:11:54] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:11:54] "GET /static/uploads/20250512_191143_c027a507.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250512_191210_800af27a.jpg: {'plant_name': 'segmented', 'condition': 'Unknown', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.1947336047887802, 'image_path': '/static/uploads/20250512_191210_800af27a.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250512_191210_800af27a.jpg
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:12:10] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/May/2025 19:12:10] "GET /static/uploads/20250512_191210_800af27a.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:01:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:01:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:root:Prediction for 20250513_110134_0f6d79ed.jpg: {'plant_name': 'Potato', 'condition': 'Early blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05032697319984436, 'image_path': '/static/uploads/20250513_110134_0f6d79ed.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110134_0f6d79ed.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:01:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:01:42] "GET /static/uploads/20250513_110134_0f6d79ed.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_110206_40ed5253.png: {'plant_name': 'Potato', 'condition': 'Early blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.04964496195316315, 'image_path': '/static/uploads/20250513_110206_40ed5253.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110206_40ed5253.png
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:02:06] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:02:06] "GET /static/uploads/20250513_110206_40ed5253.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_110235_32027e6f.jpg: {'plant_name': 'Potato', 'condition': 'Early blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.049852997064590454, 'image_path': '/static/uploads/20250513_110235_32027e6f.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110235_32027e6f.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:02:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:02:36] "GET /static/uploads/20250513_110235_32027e6f.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_110338_f240953e.png: {'plant_name': 'Potato', 'condition': 'Early blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.04964496195316315, 'image_path': '/static/uploads/20250513_110338_f240953e.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110338_f240953e.png
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:03:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:03:39] "GET /static/uploads/20250513_110338_f240953e.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_110349_09c0e569.jpg: {'plant_name': 'Potato', 'condition': 'Early blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05018288642168045, 'image_path': '/static/uploads/20250513_110349_09c0e569.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110349_09c0e569.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:03:49] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:03:49] "GET /static/uploads/20250513_110349_09c0e569.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_110738_4dd3911a.png: {'plant_name': 'Potato', 'condition': 'Early blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.04964496195316315, 'image_path': '/static/uploads/20250513_110738_4dd3911a.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110738_4dd3911a.png
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:07:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:07:38] "GET /static/uploads/20250513_110738_4dd3911a.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:root:Prediction for 20250513_110838_ad1d036c.jpg: {'plant_name': 'Pepper, bell', 'condition': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.048464830964803696, 'image_path': '/static/uploads/20250513_110838_ad1d036c.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110838_ad1d036c.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:08:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:08:46] "GET /static/uploads/20250513_110838_ad1d036c.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_110912_6f53c422.png: {'plant_name': 'Pepper, bell', 'condition': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.04947727173566818, 'image_path': '/static/uploads/20250513_110912_6f53c422.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110912_6f53c422.png
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:09:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:09:13] "GET /static/uploads/20250513_110912_6f53c422.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:09:37] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_110943_882c087d.jpg: {'plant_name': 'Grape', 'condition': 'Black rot', 'scientific_name': 'Vitis vinifera', 'treatment': '1. Remove infected fruit and cankers\n2. Apply copper-based fungicides\n3. Prune during dry weather', 'prevention': '1. Regular pruning\n2. Remove mummified fruit\n3. Maintain proper spacing between plants', 'confidence': 0.05435485392808914, 'image_path': '/static/uploads/20250513_110943_882c087d.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_110943_882c087d.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:09:54] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:09:55] "GET /static/uploads/20250513_110943_882c087d.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_111003_ef624bbf.jpg: {'plant_name': 'Grape', 'condition': 'Black rot', 'scientific_name': 'Vitis vinifera', 'treatment': '1. Remove infected fruit and cankers\n2. Apply copper-based fungicides\n3. Prune during dry weather', 'prevention': '1. Regular pruning\n2. Remove mummified fruit\n3. Maintain proper spacing between plants', 'confidence': 0.05371728539466858, 'image_path': '/static/uploads/20250513_111003_ef624bbf.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_111003_ef624bbf.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:10:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:10:03] "GET /static/uploads/20250513_111003_ef624bbf.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_111024_2f79ce5b.jpg: {'plant_name': 'Grape', 'condition': 'Black rot', 'scientific_name': 'Vitis vinifera', 'treatment': '1. Remove infected fruit and cankers\n2. Apply copper-based fungicides\n3. Prune during dry weather', 'prevention': '1. Regular pruning\n2. Remove mummified fruit\n3. Maintain proper spacing between plants', 'confidence': 0.05484380945563316, 'image_path': '/static/uploads/20250513_111024_2f79ce5b.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_111024_2f79ce5b.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:10:24] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 11:10:24] "GET /static/uploads/20250513_111024_2f79ce5b.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:12:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:12:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:root:Prediction for 20250513_121323_03f0401a.jpg: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04882882535457611, 'image_path': '/static/uploads/20250513_121323_03f0401a.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121323_03f0401a.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:13:31] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:13:31] "GET /static/uploads/20250513_121323_03f0401a.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_121344_fd92c839.jpg: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.049320828169584274, 'image_path': '/static/uploads/20250513_121344_fd92c839.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121344_fd92c839.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:13:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:13:45] "GET /static/uploads/20250513_121344_fd92c839.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_121355_b7ab63db.jpg: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.049320828169584274, 'image_path': '/static/uploads/20250513_121355_b7ab63db.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121355_b7ab63db.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:13:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:13:55] "GET /static/uploads/20250513_121355_b7ab63db.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_121405_de6a1cfc.jpeg: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.049718089401721954, 'image_path': '/static/uploads/20250513_121405_de6a1cfc.jpeg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121405_de6a1cfc.jpeg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:14:05] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:14:05] "GET /static/uploads/20250513_121405_de6a1cfc.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:18:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:18:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Prediction for 20250513_121852_0a72d9b9.png: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.045848503708839417, 'image_path': '/static/uploads/20250513_121852_0a72d9b9.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121852_0a72d9b9.png
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:00] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:00] "GET /static/uploads/20250513_121852_0a72d9b9.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_121909_90989d0c.jpg: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04597131162881851, 'image_path': '/static/uploads/20250513_121909_90989d0c.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121909_90989d0c.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:10] "GET /static/uploads/20250513_121909_90989d0c.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:30] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_121937_79902a3e.png: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04623357951641083, 'image_path': '/static/uploads/20250513_121937_79902a3e.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121937_79902a3e.png
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:37] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:37] "GET /static/uploads/20250513_121937_79902a3e.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_121945_0b614fe0.jpg: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04593173786997795, 'image_path': '/static/uploads/20250513_121945_0b614fe0.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_121945_0b614fe0.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:46] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:19:46] "GET /static/uploads/20250513_121945_0b614fe0.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for captured image 20250513_122019_3361cafe.jpg: {'plant_name': 'Apple', 'condition': 'Cedar apple rust', 'scientific_name': 'Malus domestica', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.045866094529628754, 'image_path': '/static/uploads/20250513_122019_3361cafe.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_122019_3361cafe.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:20:20] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:20:20] "GET /static/uploads/20250513_122019_3361cafe.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:10] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_122217_ab0d33b9.png: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04649689421057701, 'image_path': '/static/uploads/20250513_122217_ab0d33b9.png', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_122217_ab0d33b9.png
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:24] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:24] "GET /static/uploads/20250513_122217_ab0d33b9.png HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_122243_ca65b55c.jpg: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.046246886253356934, 'image_path': '/static/uploads/20250513_122243_ca65b55c.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_122243_ca65b55c.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:44] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:44] "GET /static/uploads/20250513_122243_ca65b55c.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:50] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_122256_0c181470.jpg: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04536319524049759, 'image_path': '/static/uploads/20250513_122256_0c181470.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_122256_0c181470.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:22:56] "GET /static/uploads/20250513_122256_0c181470.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:23:11] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_122315_2eee48b7.jpg: {'plant_name': 'Tomato', 'condition': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04536319524049759, 'image_path': '/static/uploads/20250513_122315_2eee48b7.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_122315_2eee48b7.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:23:15] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:23:15] "GET /static/uploads/20250513_122315_2eee48b7.jpg HTTP/1.1" 200 -
+INFO:werkzeug:192.168.196.77 - - [13/May/2025 12:29:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.196.77 - - [13/May/2025 12:29:56] "[31m[1mGET / HTTP/1.1[0m" 400 -
+INFO:werkzeug:192.168.196.77 - - [13/May/2025 12:29:56] "[33mGET /loginMsg.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.196.77 - - [13/May/2025 12:29:56] "[33mGET /cgi/get.cgi?cmd=home_login HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.196.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:32:34] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_123240_eca697f5.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05213560909032822, 'image_path': '/static/uploads/20250513_123240_eca697f5.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_123240_eca697f5.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:32:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:32:51] "GET /static/uploads/20250513_123240_eca697f5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:33:27] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for captured image 20250513_123407_c80f2f7b.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.0553029328584671, 'image_path': '/static/uploads/20250513_123407_c80f2f7b.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_123407_c80f2f7b.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:08] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:08] "GET /static/uploads/20250513_123407_c80f2f7b.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for captured image 20250513_123431_f3e2c553.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.0493318997323513, 'image_path': '/static/uploads/20250513_123431_f3e2c553.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_123431_f3e2c553.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:32] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:32] "GET /static/uploads/20250513_123431_f3e2c553.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for captured image 20250513_123443_7bbfdfdc.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05216528847813606, 'image_path': '/static/uploads/20250513_123443_7bbfdfdc.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_123443_7bbfdfdc.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:43] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:43] "GET /static/uploads/20250513_123443_7bbfdfdc.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:49] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_123456_7e042a46.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05372149497270584, 'image_path': '/static/uploads/20250513_123456_7e042a46.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_123456_7e042a46.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:34:56] "GET /static/uploads/20250513_123456_7e042a46.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:35:06] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_124138_dbc3e4bc.jpeg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.052438896149396896, 'image_path': '/static/uploads/20250513_124138_dbc3e4bc.jpeg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_124138_dbc3e4bc.jpeg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:41:39] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:41:39] "GET /static/uploads/20250513_124138_dbc3e4bc.jpeg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_124150_3b20e535.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05631660670042038, 'image_path': '/static/uploads/20250513_124150_3b20e535.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_124150_3b20e535.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:41:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:41:51] "GET /static/uploads/20250513_124150_3b20e535.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_124212_e5c4eb3e.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05631660670042038, 'image_path': '/static/uploads/20250513_124212_e5c4eb3e.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_124212_e5c4eb3e.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:42:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:42:13] "GET /static/uploads/20250513_124212_e5c4eb3e.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_124220_a0347753.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.052338726818561554, 'image_path': '/static/uploads/20250513_124220_a0347753.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_124220_a0347753.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:42:21] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:42:21] "GET /static/uploads/20250513_124220_a0347753.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:52:02] "GET / HTTP/1.1" 200 -
+INFO:root:Prediction for 20250513_125546_cd0a3bd3.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05318038910627365, 'image_path': '/static/uploads/20250513_125546_cd0a3bd3.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_125546_cd0a3bd3.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:55:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:55:48] "GET /static/uploads/20250513_125546_cd0a3bd3.jpg HTTP/1.1" 200 -
+INFO:root:Prediction for captured image 20250513_125556_6cd68320.jpg: {'plant_name': 'Tomato', 'disease': 'Early blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide containing chlorothalonil\n3. Maintain proper spacing', 'prevention': '1. Mulch around plants\n2. Water at base of plant\n3. Practice crop rotation', 'confidence': 0.05584096163511276, 'image_path': '/static/uploads/20250513_125556_6cd68320.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.'}
+INFO:root:Image path sent to client: /static/uploads/20250513_125556_6cd68320.jpg
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:55:57] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:55:57] "GET /static/uploads/20250513_125556_6cd68320.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 12:56:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\train_model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\src\\trainers\\data_adapters\\py_dataset_adapter.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.196.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:18:08] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_131819_561f9008.jpg: {'plant_name': 'Tomato', 'disease': 'Spider mites Two-spotted spider mite', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.06155964732170105, 'image_path': '/static/uploads/upload_20250513_131819_561f9008.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:18:27] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:18:27] "GET /static/uploads/upload_20250513_131819_561f9008.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_131843_3d596b89.jpg: {'plant_name': 'Corn (maize)', 'disease': 'Cercospora leaf spot Gray leaf spot', 'scientific_name': 'Scientific name not available', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.040434807538986206, 'image_path': '/static/uploads/capture_20250513_131843_3d596b89.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:18:43] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:18:43] "GET /static/uploads/capture_20250513_131843_3d596b89.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:18:59] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_131908_458d10e2.jpg: {'plant_name': 'Corn (maize)', 'disease': 'Cercospora leaf spot Gray leaf spot', 'scientific_name': 'Scientific name not available', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.03878122195601463, 'image_path': '/static/uploads/capture_20250513_131908_458d10e2.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:19:08] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:19:08] "GET /static/uploads/capture_20250513_131908_458d10e2.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_131934_6fb212eb.png: {'plant_name': 'Tomato', 'disease': 'Spider mites Two-spotted spider mite', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.060894258320331573, 'image_path': '/static/uploads/upload_20250513_131934_6fb212eb.png', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:19:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:19:34] "GET /static/uploads/upload_20250513_131934_6fb212eb.png HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_131953_5b899bde.jpg: {'plant_name': 'Corn (maize)', 'disease': 'Cercospora leaf spot Gray leaf spot', 'scientific_name': 'Scientific name not available', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.0386296771466732, 'image_path': '/static/uploads/capture_20250513_131953_5b899bde.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:19:54] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 13:19:54] "GET /static/uploads/capture_20250513_131953_5b899bde.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.109.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:10:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:10:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.109.77 - - [13/May/2025 14:10:49] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_141051_5ba10c42.jpg: {'plant_name': 'Potato', 'disease': 'healthy', 'scientific_name': 'Solanum tuberosum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.054829906672239304, 'image_path': '/static/uploads/upload_20250513_141051_5ba10c42.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:11:01] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:11:01] "GET /static/uploads/upload_20250513_141051_5ba10c42.jpg HTTP/1.1" 200 -
+INFO:werkzeug:192.168.109.77 - - [13/May/2025 14:11:07] "[31m[1mGET / HTTP/1.1[0m" 400 -
+INFO:werkzeug:192.168.109.77 - - [13/May/2025 14:11:07] "[33mGET /loginMsg.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.109.77 - - [13/May/2025 14:11:07] "[33mGET /cgi/get.cgi?cmd=home_login HTTP/1.1[0m" 404 -
+INFO:root:Captured image prediction for capture_20250513_141115_391a8c0b.jpg: {'plant_name': 'Tomato', 'disease': 'Tomato mosaic virus', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.041380833834409714, 'image_path': '/static/uploads/capture_20250513_141115_391a8c0b.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:11:15] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:11:16] "GET /static/uploads/capture_20250513_141115_391a8c0b.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_141136_2023edbd.png: {'plant_name': 'Potato', 'disease': 'healthy', 'scientific_name': 'Solanum tuberosum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.05457846075296402, 'image_path': '/static/uploads/upload_20250513_141136_2023edbd.png', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:11:36] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:11:36] "GET /static/uploads/upload_20250513_141136_2023edbd.png HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_141203_736867fb.png: {'plant_name': 'Potato', 'disease': 'healthy', 'scientific_name': 'Solanum tuberosum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.053264129906892776, 'image_path': '/static/uploads/upload_20250513_141203_736867fb.png', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:12:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:12:03] "GET /static/uploads/upload_20250513_141203_736867fb.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:12:53] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_141301_810d5a1d.jpg: {'plant_name': 'Potato', 'disease': 'healthy', 'scientific_name': 'Solanum tuberosum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.054829906672239304, 'image_path': '/static/uploads/upload_20250513_141301_810d5a1d.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:13:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:13:02] "GET /static/uploads/upload_20250513_141301_810d5a1d.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:10.0.252.102 - - [13/May/2025 14:15:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.0.252.102 - - [13/May/2025 14:15:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:15:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.0.252.102 - - [13/May/2025 14:16:03] "[31m[1mGET / HTTP/1.1[0m" 400 -
+INFO:werkzeug:10.0.252.102 - - [13/May/2025 14:16:03] "[33mGET /loginMsg.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:10.0.252.102 - - [13/May/2025 14:16:03] "[33mGET /cgi/get.cgi?cmd=home_login HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:root:Uploaded image prediction for upload_20250513_141617_02f58516.jpg: {'plant_name': 'Corn (maize)', 'disease': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.058917395770549774, 'image_path': '/static/uploads/upload_20250513_141617_02f58516.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:16:23] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:16:24] "GET /static/uploads/upload_20250513_141617_02f58516.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:192.168.94.77 - - [13/May/2025 14:25:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.94.77 - - [13/May/2025 14:25:54] "[31m[1mGET / HTTP/1.1[0m" 400 -
+INFO:werkzeug:192.168.94.77 - - [13/May/2025 14:25:54] "[33mGET /loginMsg.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.94.77 - - [13/May/2025 14:25:54] "[33mGET /cgi/get.cgi?cmd=home_login HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:27:00] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_142709_d7b357d5.png: {'plant_name': 'Tomato', 'disease': 'Bacterial spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply copper-based bactericides\n3. Improve air circulation', 'prevention': '1. Use disease-free seeds\n2. Rotate crops\n3. Avoid overhead irrigation', 'confidence': 0.046555887907743454, 'image_path': '/static/uploads/upload_20250513_142709_d7b357d5.png', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:27:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:27:21] "GET /static/uploads/upload_20250513_142709_d7b357d5.png HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_142738_de02fd63.jpg: {'plant_name': 'Tomato', 'disease': 'Bacterial spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply copper-based bactericides\n3. Improve air circulation', 'prevention': '1. Use disease-free seeds\n2. Rotate crops\n3. Avoid overhead irrigation', 'confidence': 0.04239765927195549, 'image_path': '/static/uploads/capture_20250513_142738_de02fd63.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:27:39] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:27:39] "GET /static/uploads/capture_20250513_142738_de02fd63.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_142828_e28664e3.jpg: {'plant_name': 'Tomato', 'disease': 'Bacterial spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply copper-based bactericides\n3. Improve air circulation', 'prevention': '1. Use disease-free seeds\n2. Rotate crops\n3. Avoid overhead irrigation', 'confidence': 0.045559629797935486, 'image_path': '/static/uploads/upload_20250513_142828_e28664e3.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:28:29] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:28:29] "GET /static/uploads/upload_20250513_142828_e28664e3.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_142836_aec8bd8e.jpg: {'plant_name': 'Tomato', 'disease': 'Bacterial spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply copper-based bactericides\n3. Improve air circulation', 'prevention': '1. Use disease-free seeds\n2. Rotate crops\n3. Avoid overhead irrigation', 'confidence': 0.04247438162565231, 'image_path': '/static/uploads/capture_20250513_142836_aec8bd8e.jpg', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:28:36] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:28:36] "GET /static/uploads/capture_20250513_142836_aec8bd8e.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:31:52] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_143200_3bb6c4d8.png: {'plant_name': 'Strawberry', 'disease': 'Leaf scorch', 'scientific_name': 'Fragaria × ananassa', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.05278446152806282, 'image_path': '/static/uploads/upload_20250513_143200_3bb6c4d8.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:32:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:32:11] "GET /static/uploads/upload_20250513_143200_3bb6c4d8.png HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_143236_6e07ab56.jpg: {'plant_name': 'Tomato', 'disease': 'Septoria leaf spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.05533035099506378, 'image_path': '/static/uploads/capture_20250513_143236_6e07ab56.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:32:36] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:32:36] "GET /static/uploads/capture_20250513_143236_6e07ab56.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:52:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:52:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Uploaded image prediction for upload_20250513_145249_b89b67e5.jpg: {'plant_name': 'Pepper, bell', 'disease': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.057006627321243286, 'image_path': '/static/uploads/upload_20250513_145249_b89b67e5.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:52:54] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:52:54] "GET /static/uploads/upload_20250513_145249_b89b67e5.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_145316_7ab23572.jpg: {'plant_name': 'Tomato', 'disease': 'Tomato Yellow Leaf Curl Virus', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04707186296582222, 'image_path': '/static/uploads/capture_20250513_145316_7ab23572.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:53:16] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:53:16] "GET /static/uploads/capture_20250513_145316_7ab23572.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:53:52] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_145359_1241d6e5.jpg: {'plant_name': 'Pepper, bell', 'disease': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.057006627321243286, 'image_path': '/static/uploads/upload_20250513_145359_1241d6e5.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:54:00] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:54:00] "GET /static/uploads/upload_20250513_145359_1241d6e5.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_145409_0fb272d0.jpg: {'plant_name': 'Tomato', 'disease': 'Tomato Yellow Leaf Curl Virus', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04663591459393501, 'image_path': '/static/uploads/capture_20250513_145409_0fb272d0.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:54:10] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:54:10] "GET /static/uploads/capture_20250513_145409_0fb272d0.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_145419_5fcfc2b9.jpg: {'plant_name': 'Pepper, bell', 'disease': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.057006627321243286, 'image_path': '/static/uploads/upload_20250513_145419_5fcfc2b9.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:54:20] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:54:20] "GET /static/uploads/upload_20250513_145419_5fcfc2b9.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:55:24] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_145531_913387e2.jpg: {'plant_name': 'Strawberry', 'disease': 'healthy', 'scientific_name': 'Fragaria × ananassa', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.05913678556680679, 'image_path': '/static/uploads/upload_20250513_145531_913387e2.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:55:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:55:43] "GET /static/uploads/upload_20250513_145531_913387e2.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_145602_353816e4.png: {'plant_name': 'Strawberry', 'disease': 'healthy', 'scientific_name': 'Fragaria × ananassa', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.057388197630643845, 'image_path': '/static/uploads/upload_20250513_145602_353816e4.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:56:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:56:03] "GET /static/uploads/upload_20250513_145602_353816e4.png HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_145609_fef51ecc.jpg: {'plant_name': 'Potato', 'disease': 'healthy', 'scientific_name': 'Solanum tuberosum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.0543387271463871, 'image_path': '/static/uploads/capture_20250513_145609_fef51ecc.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:56:09] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 14:56:09] "GET /static/uploads/capture_20250513_145609_fef51ecc.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:08:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:08:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:09:51] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_160951_9830584a.jpg: {'plant_name': 'Tomato', 'disease': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.040713243186473846, 'image_path': '/static/uploads/capture_20250513_160951_9830584a.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:10:01] "POST /capture HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_160951_52aa78c5.jpg: {'plant_name': 'Corn (maize)', 'disease': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.04590701311826706, 'image_path': '/static/uploads/upload_20250513_160951_52aa78c5.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:10:01] "POST /predict HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_160951_0e3af495.png: {'plant_name': 'Corn (maize)', 'disease': 'healthy', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.04589976742863655, 'image_path': '/static/uploads/upload_20250513_160951_0e3af495.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:10:01] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:10:02] "GET /static/uploads/upload_20250513_160951_0e3af495.png HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_161142_b50df211.jpg: {'plant_name': 'Tomato', 'disease': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.04063795134425163, 'image_path': '/static/uploads/capture_20250513_161142_b50df211.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:11:43] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:11:43] "GET /static/uploads/capture_20250513_161142_b50df211.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:12:16] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_161227_4756228d.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.0417998842895031, 'image_path': '/static/uploads/upload_20250513_161227_4756228d.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:12:37] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:12:38] "GET /static/uploads/upload_20250513_161227_4756228d.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_161246_53ebdc2b.jpg: {'plant_name': 'Potato', 'disease': 'healthy', 'scientific_name': 'Solanum tuberosum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.04324456304311752, 'image_path': '/static/uploads/capture_20250513_161246_53ebdc2b.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:12:46] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:12:47] "GET /static/uploads/capture_20250513_161246_53ebdc2b.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:12:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:13:14] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_161320_efef3518.png: {'plant_name': 'Tomato', 'disease': 'Late blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.03374399244785309, 'image_path': '/static/uploads/upload_20250513_161320_efef3518.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:13:31] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:13:31] "GET /static/uploads/upload_20250513_161320_efef3518.png HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_161359_6ad6e0f9.jpg: {'plant_name': 'Soybean', 'disease': 'healthy', 'scientific_name': 'Glycine max', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.05314024165272713, 'image_path': '/static/uploads/capture_20250513_161359_6ad6e0f9.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:14:00] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:14:00] "GET /static/uploads/capture_20250513_161359_6ad6e0f9.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_161553_919fdd68.jpg: {'plant_name': 'Tomato', 'disease': 'Late blight', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.03440418839454651, 'image_path': '/static/uploads/upload_20250513_161553_919fdd68.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:15:54] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:15:54] "GET /static/uploads/upload_20250513_161553_919fdd68.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_161615_470f911f.jpg: {'plant_name': 'Soybean', 'disease': 'healthy', 'scientific_name': 'Glycine max', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.05299109220504761, 'image_path': '/static/uploads/capture_20250513_161615_470f911f.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:16:15] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:16:15] "GET /static/uploads/capture_20250513_161615_470f911f.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:16:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:20:38] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_162048_faff56d4.jpg: {'plant_name': 'Tomato', 'disease': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.02809653989970684, 'image_path': '/static/uploads/upload_20250513_162048_faff56d4.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:20:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:20:56] "GET /static/uploads/upload_20250513_162048_faff56d4.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_162117_8eea629c.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.025893937796354294, 'image_path': '/static/uploads/capture_20250513_162117_8eea629c.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:21:18] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:21:18] "GET /static/uploads/capture_20250513_162117_8eea629c.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_162217_901bd26e.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.026069192215800285, 'image_path': '/static/uploads/capture_20250513_162217_901bd26e.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:22:17] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:22:17] "GET /static/uploads/capture_20250513_162217_901bd26e.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_162314_9ebfd35c.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.026054147630929947, 'image_path': '/static/uploads/capture_20250513_162314_9ebfd35c.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:23:15] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:23:15] "GET /static/uploads/capture_20250513_162314_9ebfd35c.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_162342_c8a1219e.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.026137931272387505, 'image_path': '/static/uploads/capture_20250513_162342_c8a1219e.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:23:43] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:23:43] "GET /static/uploads/capture_20250513_162342_c8a1219e.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_162403_cbdcb0aa.jpeg: {'plant_name': 'Tomato', 'disease': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.028868384659290314, 'image_path': '/static/uploads/upload_20250513_162403_cbdcb0aa.jpeg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:24:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:24:03] "GET /static/uploads/upload_20250513_162403_cbdcb0aa.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:24:35] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_162533_d0a562bc.png: {'plant_name': 'Tomato', 'disease': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.02782328613102436, 'image_path': '/static/uploads/upload_20250513_162533_d0a562bc.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:25:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:25:34] "GET /static/uploads/upload_20250513_162533_d0a562bc.png HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_162550_03c56e1f.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.02579565718770027, 'image_path': '/static/uploads/capture_20250513_162550_03c56e1f.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:25:50] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:25:50] "GET /static/uploads/capture_20250513_162550_03c56e1f.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_162600_71cd4828.png: {'plant_name': 'Tomato', 'disease': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.02782328613102436, 'image_path': '/static/uploads/upload_20250513_162600_71cd4828.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:26:01] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:26:01] "GET /static/uploads/upload_20250513_162600_71cd4828.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:26:03] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_164509_27657858.jpg: {'plant_name': 'Tomato', 'disease': 'Target Spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.02809653989970684, 'image_path': '/static/uploads/upload_20250513_164509_27657858.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:09] "GET /static/uploads/upload_20250513_164509_27657858.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_164518_10573a26.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.026452504098415375, 'image_path': '/static/uploads/capture_20250513_164518_10573a26.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:18] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:18] "GET /static/uploads/capture_20250513_164518_10573a26.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:22] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_164540_76065a45.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.02614772692322731, 'image_path': '/static/uploads/capture_20250513_164540_76065a45.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:41] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:41] "GET /static/uploads/capture_20250513_164540_76065a45.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 16:45:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:23:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:23:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\ops\\custom_gradient.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:root:Uploaded image prediction for upload_20250513_192332_e9b1b2c2.png: {'plant_name': 'Unknown', 'disease': 'Unknown', 'scientific_name': 'Scientific name not available', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.10753282159566879, 'image_path': '/static/uploads/upload_20250513_192332_e9b1b2c2.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:23:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:23:38] "GET /static/uploads/upload_20250513_192332_e9b1b2c2.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.94.77:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:32:42] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_193251_0e0b16ac.png: {'plant_name': 'Tomato', 'disease': 'Septoria leaf spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.10850370675325394, 'image_path': '/static/uploads/upload_20250513_193251_0e0b16ac.png', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:33:00] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:33:01] "GET /static/uploads/upload_20250513_193251_0e0b16ac.png HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250513_193311_37f12bc1.jpg: {'plant_name': 'Tomato', 'disease': 'Septoria leaf spot', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected plant parts\n2. Apply appropriate fungicide\n3. Improve growing conditions', 'prevention': '1. Monitor regularly\n2. Maintain plant hygiene\n3. Ensure proper spacing', 'confidence': 0.1085265651345253, 'image_path': '/static/uploads/upload_20250513_193311_37f12bc1.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:33:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:33:12] "GET /static/uploads/upload_20250513_193311_37f12bc1.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250513_193319_3b3e989b.jpg: {'plant_name': 'Potato', 'disease': 'Late blight', 'scientific_name': 'Solanum tuberosum', 'treatment': '1. Remove infected plants immediately\n2. Apply copper-based fungicide\n3. Destroy all infected material', 'prevention': '1. Plant resistant varieties\n2. Improve drainage\n3. Monitor weather conditions', 'confidence': 0.09987936168909073, 'image_path': '/static/uploads/capture_20250513_193319_3b3e989b.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:33:19] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2025 19:33:19] "GET /static/uploads/capture_20250513_193319_3b3e989b.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.94.77:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.94.77 - - [14/May/2025 01:07:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.94.77 - - [14/May/2025 01:07:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\distribute\\distribute_lib.py', reloading
+INFO:root:Uploaded image prediction for upload_20250514_010727_c394d777.jpg: {'error': 'Error during prediction: in user code:\n\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2440, in predict_function  *\n        return step_function(self, iterator)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2425, in step_function  **\n        outputs = model.distribute_strategy.run(run_step, args=(data,))\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2413, in run_step  **\n        outputs = model.predict_step(data)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2381, in predict_step\n        return self(x, training=False)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\utils\\traceback_utils.py", line 70, in error_handler\n        raise e.with_traceback(filtered_tb) from None\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\input_spec.py", line 298, in assert_input_compatibility\n        raise ValueError(\n\n    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 512, 512, 3), found shape=(None, 224, 224, 3)\n', 'confidence': 0.0, 'image_path': '/static/uploads/upload_20250514_010727_c394d777.jpg', 'source': 'uploaded'}
+INFO:werkzeug:192.168.94.77 - - [14/May/2025 01:07:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.94.77:8000/ (Press CTRL+C to quit)
+INFO:root:Uploaded image prediction for upload_20250514_010759_eb64bba3.jpg: {'error': 'Error during prediction: in user code:\n\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2440, in predict_function  *\n        return step_function(self, iterator)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2425, in step_function  **\n        outputs = model.distribute_strategy.run(run_step, args=(data,))\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2413, in run_step  **\n        outputs = model.predict_step(data)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2381, in predict_step\n        return self(x, training=False)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\utils\\traceback_utils.py", line 70, in error_handler\n        raise e.with_traceback(filtered_tb) from None\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\input_spec.py", line 298, in assert_input_compatibility\n        raise ValueError(\n\n    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 512, 512, 3), found shape=(None, 224, 224, 3)\n', 'confidence': 0.0, 'image_path': '/static/uploads/upload_20250514_010759_eb64bba3.jpg', 'source': 'uploaded'}
+INFO:werkzeug:192.168.94.77 - - [14/May/2025 01:08:00] "POST /predict HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.94.77:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 01:24:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 01:24:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Uploaded image prediction for upload_20250514_012412_50459145.jpg: {'error': 'Error during prediction: in user code:\n\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2440, in predict_function  *\n        return step_function(self, iterator)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2425, in step_function  **\n        outputs = model.distribute_strategy.run(run_step, args=(data,))\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2413, in run_step  **\n        outputs = model.predict_step(data)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\training.py", line 2381, in predict_step\n        return self(x, training=False)\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\utils\\traceback_utils.py", line 70, in error_handler\n        raise e.with_traceback(filtered_tb) from None\n    File "C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keras\\src\\engine\\input_spec.py", line 298, in assert_input_compatibility\n        raise ValueError(\n\n    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 512, 512, 3), found shape=(None, 224, 224, 3)\n', 'confidence': 0.0, 'image_path': '/static/uploads/upload_20250514_012412_50459145.jpg', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 01:24:12] "POST /predict HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\applications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\src\\applications\\efficientnet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\src\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\layers\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 09:03:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 09:03:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Uploaded image prediction for upload_20250514_090339_6d2dabe8.png: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.9150311350822449, 'image_path': '/static/uploads/upload_20250514_090339_6d2dabe8.png', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 09:03:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 09:03:48] "GET /static/uploads/upload_20250514_090339_6d2dabe8.png HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:08:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:08:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Uploaded image prediction for upload_20250514_110853_33f774b8.png: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.9150311350822449, 'image_path': '/static/uploads/upload_20250514_110853_33f774b8.png', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:09:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\applications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\src\\applications\\efficientnet.py', reloading
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:09:04] "GET /static/uploads/upload_20250514_110853_33f774b8.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 11:13:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 11:13:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:34] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_111344_75215e0c.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.6362341642379761, 'image_path': '/static/uploads/capture_20250514_111344_75215e0c.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:55] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:13:55] "GET /static/uploads/capture_20250514_111344_75215e0c.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_111416_15a8188c.jpg: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.7235908508300781, 'image_path': '/static/uploads/capture_20250514_111416_15a8188c.jpg', 'source_type': 'captured', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:14:17] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:14:17] "GET /static/uploads/capture_20250514_111416_15a8188c.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_111428_803be8c5.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.3997473120689392, 'image_path': '/static/uploads/capture_20250514_111428_803be8c5.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:14:30] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:14:30] "GET /static/uploads/capture_20250514_111428_803be8c5.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_111437_569a6e16.jpeg: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.5543578863143921, 'image_path': '/static/uploads/upload_20250514_111437_569a6e16.jpeg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:14:38] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 11:14:38] "GET /static/uploads/upload_20250514_111437_569a6e16.jpeg HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:21:00] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_122112_c2d852af.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.7621710896492004, 'image_path': '/static/uploads/capture_20250514_122112_c2d852af.jpg', 'source_type': 'captured', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:21:17] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:21:18] "GET /static/uploads/capture_20250514_122112_c2d852af.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_122127_dc5a0d01.jpeg: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.5543578863143921, 'image_path': '/static/uploads/upload_20250514_122127_dc5a0d01.jpeg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:21:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:21:28] "GET /static/uploads/upload_20250514_122127_dc5a0d01.jpeg HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 12:45:18] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_124524_6d36d2f8.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.983697772026062, 'image_path': '/static/uploads/upload_20250514_124524_6d36d2f8.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 12:45:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:10.0.250.188 - - [14/May/2025 12:45:35] "GET /static/uploads/upload_20250514_124524_6d36d2f8.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:46:05] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_124615_93e1b8f4.jpg: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.5104041695594788, 'image_path': '/static/uploads/upload_20250514_124615_93e1b8f4.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:46:17] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:46:17] "GET /static/uploads/upload_20250514_124615_93e1b8f4.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_124629_f2d8e8e9.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.5731746554374695, 'image_path': '/static/uploads/capture_20250514_124629_f2d8e8e9.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:46:30] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:46:30] "GET /static/uploads/capture_20250514_124629_f2d8e8e9.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\applications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\src\\applications\\efficientnet.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:48:40] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_124847_97633fff.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.4284733533859253, 'image_path': '/static/uploads/capture_20250514_124847_97633fff.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:48:58] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:48:58] "GET /static/uploads/capture_20250514_124847_97633fff.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_124906_bab28278.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.983697772026062, 'image_path': '/static/uploads/upload_20250514_124906_bab28278.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:49:07] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:49:07] "GET /static/uploads/upload_20250514_124906_bab28278.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_124914_7f8183de.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.5788508057594299, 'image_path': '/static/uploads/capture_20250514_124914_7f8183de.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:49:15] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:49:15] "GET /static/uploads/capture_20250514_124914_7f8183de.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tensorflow\\python\\util\\tf_export.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:52:15] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_125223_34a9440b.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.6085724830627441, 'image_path': '/static/uploads/upload_20250514_125223_34a9440b.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:52:30] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:52:31] "GET /static/uploads/upload_20250514_125223_34a9440b.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_125237_4fc4dfec.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.6458595395088196, 'image_path': '/static/uploads/capture_20250514_125237_4fc4dfec.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:52:38] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:52:38] "GET /static/uploads/capture_20250514_125237_4fc4dfec.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:55:27] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_125539_0e589022.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.8147807121276855, 'image_path': '/static/uploads/upload_20250514_125539_0e589022.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:55:45] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:55:45] "GET /static/uploads/upload_20250514_125539_0e589022.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_125549_a1b81f98.jpg: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.5340456962585449, 'image_path': '/static/uploads/capture_20250514_125549_a1b81f98.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:55:49] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:55:50] "GET /static/uploads/capture_20250514_125549_a1b81f98.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_125558_c3083480.jpg: {'plant_name': 'Tomato', 'disease': 'Leaf Mold', 'scientific_name': 'Solanum lycopersicum', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'confidence': 0.47098684310913086, 'image_path': '/static/uploads/capture_20250514_125558_c3083480.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:55:59] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:55:59] "GET /static/uploads/capture_20250514_125558_c3083480.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:56:43] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_125650_7ad6402e.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.6605345606803894, 'image_path': '/static/uploads/capture_20250514_125650_7ad6402e.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:56:51] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:56:51] "GET /static/uploads/capture_20250514_125650_7ad6402e.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:59:32] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_125940_9ad00167.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.6807993650436401, 'image_path': '/static/uploads/capture_20250514_125940_9ad00167.jpg', 'source_type': 'captured', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:59:45] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 12:59:46] "GET /static/uploads/capture_20250514_125940_9ad00167.jpg HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_130007_95cc2946.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.9844851493835449, 'image_path': '/static/uploads/upload_20250514_130007_95cc2946.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:00:08] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:00:08] "GET /static/uploads/upload_20250514_130007_95cc2946.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\keras\\src\\layers\\serialization.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-128-731
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.250.188:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:03:08] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_130321_3bafb008.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.6482309699058533, 'image_path': '/static/uploads/upload_20250514_130321_3bafb008.jpg', 'source_type': 'uploaded', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:03:28] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:03:30] "GET /static/uploads/upload_20250514_130321_3bafb008.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:04:34] "GET / HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_130439_252acb6e.jpg: {'plant_name': 'Potato', 'scientific_name': 'Solanum tuberosum', 'disease': 'Black scurf', 'confidence': 0.5675429701805115, 'image_path': '/static/uploads/capture_20250514_130439_252acb6e.jpg', 'source_type': 'captured', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'variety': 'Unknown - Please consult with local agricultural expert', 'growth_stage': 'Analysis based on leaf symptoms', 'additional_info': 'Potato plants require consistent moisture and well-drained soil', 'warning': 'Low confidence prediction. Please provide a clearer image.', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:04:40] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 13:04:40] "GET /static/uploads/capture_20250514_130439_252acb6e.jpg HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-174-502
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.94.77:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:38:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:38:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Uploaded image prediction for upload_20250514_163848_823179e4.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.9987973570823669, 'image_path': '/static/uploads/upload_20250514_163848_823179e4.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:38:58] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:38:58] "GET /static/uploads/upload_20250514_163848_823179e4.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:48:18] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_164825_f45b9981.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.9942513704299927, 'image_path': '/static/uploads/upload_20250514_164825_f45b9981.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:48:26] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:48:26] "GET /static/uploads/upload_20250514_164825_f45b9981.jpg HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-174-502
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.94.77:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:50:01] "GET / HTTP/1.1" 200 -
+INFO:root:Uploaded image prediction for upload_20250514_165008_76efedbe.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.9942513704299927, 'image_path': '/static/uploads/upload_20250514_165008_76efedbe.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:50:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:50:18] "GET /static/uploads/upload_20250514_165008_76efedbe.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:50:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PIL\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-174-502
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.94.77:8000/ (Press CTRL+C to quit)
+INFO:root:Uploaded image prediction for upload_20250514_165707_b22a348e.jpg: {'plant_name': 'Tomato', 'disease': 'healthy', 'scientific_name': 'Solanum lycopersicum', 'treatment': 'No treatment needed - plant is healthy', 'prevention': '1. Regular monitoring\n2. Proper watering\n3. Balanced fertilization\n4. Good air circulation\n5. Adequate sunlight', 'confidence': 0.8147807121276855, 'image_path': '/static/uploads/upload_20250514_165707_b22a348e.jpg', 'source_type': 'uploaded', 'source': 'uploaded'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:57:17] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:57:17] "GET /static/uploads/upload_20250514_165707_b22a348e.jpg HTTP/1.1" 200 -
+INFO:root:Captured image prediction for capture_20250514_165756_64b46e42.jpg: {'plant_name': 'Potato', 'scientific_name': 'Solanum tuberosum', 'disease': 'Black scurf', 'confidence': 0.7033553123474121, 'image_path': '/static/uploads/capture_20250514_165756_64b46e42.jpg', 'source_type': 'captured', 'treatment': '1. Remove infected leaves\n2. Apply fungicide\n3. Reduce humidity', 'prevention': '1. Improve air circulation\n2. Avoid leaf wetness\n3. Space plants properly', 'variety': 'Unknown - Please consult with local agricultural expert', 'growth_stage': 'Analysis based on leaf symptoms', 'additional_info': 'Potato plants require consistent moisture and well-drained soil', 'source': 'captured'}
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:57:58] "POST /capture HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2025 16:57:58] "GET /static/uploads/capture_20250514_165756_64b46e42.jpg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\train_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\download_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\dataset_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\setup_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\setup_kaggle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Yakshini\\OneDrive\\Desktop\\plant_detection\\prepare_dataset.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\Yakshini\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-174-502
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
